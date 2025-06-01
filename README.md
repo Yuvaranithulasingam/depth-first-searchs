@@ -133,7 +133,7 @@ F H <br>
 <hr>
 <h3>Output:</h3>
 
-![image](https://github.com/user-attachments/assets/d2878066-6be3-420b-9ac8-8d88780a0893)
+![image](https://github.com/user-attachments/assets/f7dbc99c-d552-4f34-b912-19e6c8118e00)
 
 <hr>
 <h3>Result:</h3>
